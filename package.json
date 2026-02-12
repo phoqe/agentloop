@@ -1,0 +1,13 @@
+{
+  "name": "agentloop",
+  "version": "1.0.0",
+  "description": "Infinite Cursor CLI agent loop — runs agent edits in a cycle for fun",
+  "main": "src/loop.js",
+  "scripts": {
+    "start": "node src/loop.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.10.0"
+  }
+}
