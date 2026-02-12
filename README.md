@@ -1,10 +1,4 @@
-```
-                    _   _
-  __ _ __ _ ___ _ _| |_| |___  ___ _ __
- / _` / _` / -_) ' \  _| / _ \/ _ \ '_ \
- \__,_\__, \___|_||_\__|_\___/\___/ .__/
-     |___/                        |_|
-```
+# agentloop
 
 Runs the Cursor CLI agent in an infinite loop, making endless code changes to a workspace for no reason whatsoever.
 
